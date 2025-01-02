@@ -1,4 +1,4 @@
-# Qt HTTP Client Demo
+# QRHttpClient
 
 A modern, lightweight HTTP client library for Qt applications with JSON serialization support. This library provides a simple way to make HTTP requests and handle JSON responses with automatic serialization/deserialization.
 
